@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "treatment": "Teeth Whitening",
+      "image": "https://i.ibb.co.com/zf2tGnS/istockphoto-1285827529-612x612.jpg",
+      "description": "A cosmetic treatment to brighten and whiten teeth for a radiant smile.",
+      "cost": 150.00
+    },
+    {
+      "id": 2,
+      "treatment": "Laser Skin Resurfacing",
+      "image": "https://i.ibb.co.com/Lxd0Bp6/istockphoto-1061757842-612x612.jpg",
+      "description": "A procedure that uses laser technology to improve skin texture and reduce wrinkles.",
+      "cost": 300.00
+    },
+    {
+      "id": 3,
+      "treatment": "Massage Therapy",
+      "image":"https://i.ibb.co.com/WG2mgfc/istockphoto-1962457513-612x612.jpg",
+      "description": "A relaxing massage to relieve muscle tension and improve circulation.",
+      "cost": 80.00
+    },
+    {
+      "id": 4,
+      "treatment": "Hair Restoration",
+      "image": "https://i.ibb.co.com/JpHgR3D/istockphoto-1317678682-612x612.jpg",
+      "description": "A treatment to promote hair growth and reduce thinning.",
+      "cost": 400.00
+    },
+    {
+      "id": 5,
+      "treatment": "Acupuncture",
+      "image": "https://i.ibb.co.com/rtQ0Dn5/istockphoto-1922693744-612x612.jpg",
+      "description": "A traditional Chinese therapy using needles to relieve pain and stress.",
+      "cost": 60.00
+    },
+    {
+      "id": 6,
+      "treatment": "Facial Rejuvenation",
+      "image": "https://i.ibb.co.com/NYzjMQ9/istockphoto-1388628687-612x612.jpg",
+      "description": "A skincare treatment designed to hydrate and restore youthful skin.",
+      "cost": 120.00
+    },
+    {
+      "id": 7,
+      "treatment": "Chiropractic Adjustment",
+      "image": "https://i.ibb.co.com/ygCTbjg/istockphoto-1346575330-612x612.jpg",
+      "description": "A therapy to improve spine alignment and reduce back pain.",
+      "cost": 100.00
+    },
+    {
+      "id": 8,
+      "treatment": "Dermal Fillers",
+      "image": "https://i.ibb.co.com/0C9w5D3/istockphoto-1706715793-612x612.jpg",
+      "description": "An injectable treatment to add volume and smooth facial lines.",
+      "cost": 350.00
+    },
+    {
+      "id": 9,
+      "treatment": "Weight Loss Consultation",
+      "image": "https://i.ibb.co.com/K5cCpP2/istockphoto-1315142714-612x612.jpg",
+      "description": "A comprehensive session to plan a customized weight management program.",
+      "cost": 75.00
+    },
+    {
+      "id": 10,
+      "treatment": "Hydrotherapy",
+      "image": "https://i.ibb.co.com/r0QBSC9/istockphoto-2177381154-612x612.jpg",
+      "description": "A water-based therapy to relax muscles and improve mobility.",
+      "cost": 90.00
+    }
+  ]
+  

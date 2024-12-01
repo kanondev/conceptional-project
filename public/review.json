@@ -1,0 +1,63 @@
+[
+    {
+      "reviewId": 1,
+      "name": "Alice Johnson",
+      "userImg": "https://i.ibb.co.com/GMsBjHW/1.jpg",
+      "review": "Absolutely loved the service! The staff was friendly and professional."
+    },
+    {
+      "reviewId": 2,
+      "name": "Michael Brown",
+      "userImg": "https://i.ibb.co.com/3k6vgkv/2.jpg",
+      "review": "The experience exceeded my expectations. Highly recommend it!"
+    },
+    {
+      "reviewId": 3,
+      "name": "Sophia Martinez",
+      "userImg": "https://i.ibb.co.com/xCwCKDw/3.jpg",
+      "review": "Good value for money. I’ll definitely come back again."
+    },
+    {
+      "reviewId": 4,
+      "name": "James Wilson",
+      "userImg": "https://i.ibb.co.com/N1WvD7q/4.jpg",
+      "review": "It was okay, but I think the waiting time could be improved."
+    },
+    {
+      "reviewId": 5,
+      "name": "Emily Davis",
+      "userImg": "https://i.ibb.co.com/0KKXLS1/5.jpg",
+      "review": "Fantastic! Everything was clean, and the staff made me feel comfortable."
+    },
+    {
+      "reviewId": 6,
+      "name": "Oliver Garcia",
+      "userImg": "https://i.ibb.co.com/1qdk7KN/6.jpg",
+      "review": "I wasn’t satisfied with the results. It didn’t meet my expectations."
+    },
+    {
+      "reviewId": 7,
+      "name": "Ava Hernandez",
+      "userImg": "https://i.ibb.co.com/PDRBHJ2/7.jpg",
+      "review": "The environment was very relaxing, and the service was excellent."
+    },
+    {
+      "reviewId": 8,
+      "name": "Liam Miller",
+      "userImg": "https://i.ibb.co.com/xgptZfV/8.jpg",
+      "review": "I appreciated the attention to detail. Great experience overall!"
+    },
+    {
+      "reviewId": 9,
+      "name": "Isabella Gonzalez",
+      "userImg": "https://i.ibb.co.com/6mjqJnR/9.jpg",
+      "review": "The service was average. I might try it again in the future."
+    },
+    {
+      "reviewId": 10,
+      "name": "William Rodriguez",
+      "userImg": "https://i.ibb.co.com/Xsh9jtc/10.jpg",
+      "review": "Amazing results! I’ve already recommended it to my friends and family."
+    }
+  ]
+  
